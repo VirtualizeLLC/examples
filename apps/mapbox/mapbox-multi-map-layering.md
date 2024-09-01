@@ -20,7 +20,7 @@ Building a slide map has some complexities especially with react-native. So this
 
 This guide could be used for any react-native component layering.
 
-[![Example Video](https://raw.githubusercontent.com/virtualizellc/repository/main/demo-videos/map-overlay-demo.jpg)](https://raw.githubusercontent.com/virtualizellc/example-apps/main/demo-videos/map-overlay-demo.mov)
+[![Example Video](https://raw.githubusercontent.com/virtualizellc/examples/main/demo-videos/map-overlay-demo.png)](https://raw.githubusercontent.com/virtualizellc/example/main/demo-videos/map-overlay-demo.mov)
 
 ### Consider the following
 
