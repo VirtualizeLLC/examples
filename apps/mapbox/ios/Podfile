@@ -34,7 +34,7 @@ install! 'cocoapods',
 
 prepare_react_native_project!
 
-# @generated begin @rnmapbox/maps-rnmapboxmapsimpl - expo prebuild (DO NOT MODIFY) sync-8df6a309d94c6ed2bebf6903bd65558ccbf15c35
+# @generated begin @rnmapbox/maps-rnmapboxmapsimpl - expo prebuild (DO NOT MODIFY) sync-906e649927d08df4d0de7981cc78c7d406c64c54
 $RNMapboxMapsVersion = '11.4.0'
 # @generated end @rnmapbox/maps-rnmapboxmapsimpl
 target 'AppsMapbox' do
