@@ -1,0 +1,14 @@
+{
+  "name": "mapbox",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/mapbox/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project mapbox --web",
+  "targets": {
+    "start": {
+      "executor": "@nx/expo:run",
+      "inputs": [{ "env": "EXPO_USE_METRO_WORKSPACE_ROOT" }]
+    }
+  }
+}
