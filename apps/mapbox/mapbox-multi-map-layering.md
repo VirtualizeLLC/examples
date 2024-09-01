@@ -99,7 +99,7 @@ The `width` and `height` are required for the container that must be constrained
 
 When the focused map camera updates, all the unfocused maps would have to update to sync to that position.
 
-Add something like [useMapSync](./src/SlideMap/useMapSync.tsx) to synchronize everything without calling `setState` after a frequent interaction which is not performant.
+Add something like [useMapSync](https://github.com/VirtualizeLLC/examples/blob/main/apps/mapbox/src/SlideMap/useMapSync.tsx) to synchronize everything without calling `setState` after a frequent interaction which is not performant.
 
 ### Animating Map Layers
 
@@ -178,4 +178,4 @@ After creating this button we can now determine how we want to compute the pan e
 
 ## Full Example
 
-This repo contains the full example. Please follow the [@vllc/mapbox README.md](./README.md) and the [monorepo README.md](../../README.md) for installation
+This repo contains the full example. Please follow the [@vllc/mapbox README.md](https://github.com/VirtualizeLLC/examples/blob/main/apps/mapbox/README.md) and the [monorepo README.md](https://github.com/VirtualizeLLC/examples/blob/main/README.md) for installation
